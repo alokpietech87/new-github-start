@@ -10,3 +10,5 @@ let bsd="kya bhai 2nd commit kr diye 2nd branch me";
 let alok='new branch bna diya alok1 naam se';
 
 let alok2='alok2 naam ka nya branch bna diya'
+
+alok2='2nd commit of alok2';
