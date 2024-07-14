@@ -1,4 +1,7 @@
-let a=5;
+let a=4;
 const name="alok";
-alok=4;
+alok=10;
+
+let kumar =5;
+  let arr=[1,2,4];
 
